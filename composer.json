@@ -1,0 +1,21 @@
+{
+    "name": "hashan099/php-e-commerce-clothing-website",
+    "description": "A full-featured responsive E-Commerce Clothing Web Application built with pure PHP, MySQL (PDO), Bootstrap, and jQuery.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hashan Gunathilake",
+            "homepage": "https://github.com/Hashan099"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "optimize-autoloader": true
+    }
+}
