@@ -14,6 +14,9 @@
 
 </div>
 
+<img width="2550" height="3749" alt="screencapture-localhost-PHP-E-Commerce-Clothing-Website-index-php-2026-10-16-20_35_41" src="https://github.com/user-attachments/assets/b4ae8377-470c-412f-86c4-44e6d2745e52" />
+
+
 ---
 
 ## 🎓 Academic Background & Project Context
